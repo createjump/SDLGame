@@ -1,0 +1,6 @@
+{
+  "name": "SDLGame",
+  "tagline": "A game engine built with SDL2 and Box2D.",
+  "body": "### What is this???\r\nSDLgame is a game engine built with SDL2 and Box2D. It is written in C++ with Visual Studio 2015. Fun fact: I'm using the Windows 8.1 SDK to build, and interestingly enough, the executable works on Windows 7!\r\n\r\n### Source? \r\nLook above for the source tarball or zip package.\r\n\r\n### Compiling\r\nUse VS2015, and make sure SDL2 is in c:\\sdk\\sdl2. As Box2D is implemented, make sure it is compiled and located at c:\\sdk\\box2d.  \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
