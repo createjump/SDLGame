@@ -1,5 +1,7 @@
-// main code for sdl 2d thing
+// Main entry point for SDLGame
 // 2016 createjump
+// sorry about everything being convoluted, linker dosen't like it if i create a function
+// it dosen't just not like it, it goes MENTAL! i swear, this programming thing is making me rant too much.
 
 #include "stdafx.h"
 #include "SDLGame.h"
